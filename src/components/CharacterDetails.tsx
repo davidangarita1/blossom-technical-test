@@ -1,5 +1,5 @@
 import React from "react";
 
-export const CharacterDetails = (): React.ReactElement => {
+export const CharacterDetails = () => {
   return <div>CharacterDetails</div>;
 };
